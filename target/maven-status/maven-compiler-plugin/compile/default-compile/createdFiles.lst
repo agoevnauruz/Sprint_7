@@ -1,0 +1,8 @@
+ru/yandex/praktikum/Client.class
+ru/yandex/praktikum/order/OrderGenerator.class
+ru/yandex/praktikum/courier/CourierClient.class
+ru/yandex/praktikum/courier/Credentials.class
+ru/yandex/praktikum/courier/CourierGenerator.class
+ru/yandex/praktikum/order/Order.class
+ru/yandex/praktikum/order/OrderClient.class
+ru/yandex/praktikum/courier/Courier.class

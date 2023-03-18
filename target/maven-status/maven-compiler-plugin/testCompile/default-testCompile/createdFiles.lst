@@ -1,0 +1,6 @@
+ru/yandex/praktikum/orderTests/ListOrderTest.class
+ru/yandex/praktikum/courierTest/CourierNegativeTest.class
+ru/yandex/praktikum/courierTest/CourierNegativeParamTest.class
+ru/yandex/praktikum/courierTest/CourierPositiveTest.class
+ru/yandex/praktikum/courierTest/CourierNegativeAuthorizationParamTest.class
+ru/yandex/praktikum/orderTests/OrderParamTest.class
